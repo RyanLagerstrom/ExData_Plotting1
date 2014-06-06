@@ -1,3 +1,20 @@
+## Overview
+
+In this repo you will find the 8 files required for the assigment (described below)
+
+* plot1.R
+* plot1.png
+* plot2.R
+* plot2.png
+* plot3.R
+* plot3.png
+* plot4.R
+* plot4.png
+
+The png files are created from the four function in the R files above. It is assumed that the data (described below) is unzipped and contained in the active working directory
+
+## Assignment details
+
 ## Introduction
 
 This assignment uses data from
